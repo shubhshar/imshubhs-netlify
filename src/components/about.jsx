@@ -60,8 +60,8 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Machine Learning </h3>
                     <p>I am currently studying Machine Learning at Udacity and working with Anaconda Navigator</p>
-    </div>
                 </div>
+            </div>
             </div>
             
             </div>
