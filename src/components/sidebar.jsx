@@ -17,8 +17,7 @@ export default class Sidebar extends Component {
                 <ul>
                   <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
                   <li><a href="#about" data-nav-section="about">About</a></li>
-                  {/*<li><a href="#" data-nav-section="projects">Projects</a></li>
-                  <li><a href="#" data-nav-section="blog">Blog</a></li>*/}
+                  
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
                 </ul>
               </div>
@@ -27,20 +26,16 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a href="https://www.facebook.com/shubham1018" target="_blank" rel="noopener noreferrer"><i className="icon-facebook2" /></a></li>
                 <li><a href="https://twitter.com/im_shubhs" target="_blank" rel="noopener noreferrer"><i className="icon-twitter2" /></a></li>
-                <li><a href="https://www.instagram.com/imshubhs/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
-                {/*<li><a href="https://www.linkedin.com/in/dhruv-b-545b52a9/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
-                <li><a href="https://github.com/Dhruv34788" target="_blank" rel="noopener noreferrer"><i className="icon-github"></i></a></li>
-                <li><a href="https://medium.com/@dhruv.barochia34788" target="_blank" rel="noopener noreferrer"><i className="icon-blogger2"></i></a></li>
-                */}</ul>
+                <li><a href="https://www.instagram.com/besharmashubham/" target="_blank" rel="noopener noreferrer"><i className="icon-instagram" /></a></li>
+                <li><a href="https://www.linkedin.com/in/shubhs18/" target="_blank" rel="noopener noreferrer"><i className="icon-linkedin2" /></a></li>
+                </ul>
             </nav>
             <div className="colorlib-footer">
               <p><small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-beer" aria-hidden="true"></i><br></br>
-                  {/*Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration */}
+                 
               </small></p>
-              {/*<p><small>
-                Something coming soon !!
-              </small></p>*/}
+              
             </div>
           </aside>
         </div>

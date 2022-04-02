@@ -19,11 +19,12 @@ export default class Timeline extends Component {
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
-                      </div>{/*}
+                      </div>
                       <div className="timeline-label">
-                        <h2>Internship at Juniper <span>2019-present</span></h2>
-                        <p>I recently have joined the Juniper Networs as a Software Developer-Intern in the DevOps team. My major part of the work has been into the field of creating sustainable and flexible CI/CD (Continuous Integration & Continuous Development) pipelines which enables developers at Juniper to do rapid development. I am also exploring the role of container technology like Docker and container-orchrastation technologies like K8s, Swarm to create industry standard production environments.</p>
-    </div>*/}
+                        <h2>Software Developer at Tech Mahindra <span>2021-present</span></h2>
+                        <p>I recently have joined the Tech Mahindra as a Software Developer. My major part of the work has been into front end development using Thymeleaf / JavaScript / jQuery.
+                          </p>
+    </div>
                     </div>
                   </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
